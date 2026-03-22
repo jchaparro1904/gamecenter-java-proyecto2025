@@ -8,8 +8,8 @@ PROF. JHON LIENCRES
 
 
 Integrantes:
-1. Juan Manuel Chaparro Gomez (C.I: 5-851-292-4)
-2. Enzo Emiliano Díaz Rossi (C.I: 5-842-832-7)
+1. Juan Manuel Chaparro Gomez (C.I: --------)
+2. Enzo Emiliano Díaz Rossi (C.I: --------)
 
 
 1Proyecto Final – Programación – Escuela Técnica de Santa Rosa – Juegos de Consola
